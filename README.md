@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimbuilds&show_icons=true&locale=en" alt="saimbuilds" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimbuilds&" alt="saimbuilds" /></p>
