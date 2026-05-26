@@ -58,7 +58,7 @@
 
 ### 📌 Featured
 
-[![Vexilot](https://github-readme-stats.vercel.app/api/pin/?username=saimbuilds&repo=vexilot&theme=tokyonight&hide_border=true)](https://github.com/saimbuilds/vexilot)
+Vexilot -> https://vexilot.dev/
 
 </div>
 
