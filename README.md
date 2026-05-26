@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a47d5&height=280&section=header&text=Saim&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solo%20Founder%20%C2%B7%20AI%20Product%20Engineer&descAlignY=53&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e2937&height=280&section=header&text=Saim&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Solo%20Founder%20%C2%B7%20AI%20Product%20Engineer&descAlignY=58&descAlign=center%22%20width=%22100%%22"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimsys/)
 [![Live Product](https://img.shields.io/badge/Live-vexilot.dev-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://vexilot.dev)
